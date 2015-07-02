@@ -1,4 +1,4 @@
-/* 	Developer: Ýzni Burak Demirtaþ (@izniburak)
+/* 	Developer: izni burak demirtaþ (@izniburak)
 	Web: http://burakdemirtas.org
 	Project: jQuery jTwit
 	Version: 1.0
