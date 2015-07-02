@@ -1,10 +1,13 @@
-/* 	Developer: izni burak demirtaþ (@izniburak)
-	Web: http://burakdemirtas.org
-	Project: jQuery jTwit
-	Version: 1.0
-	Project Page: http://burakdemirtas.org/projects/jquery.jtwit/
-	Older Version: http://coda.co.za/content/projects/jquery.twitter/
-	License: GNU General Public License (http://www.gnu.org/copyleft/gpl.html) */
+/*
+* Developer: izni burak demirtaÃ¾ (@izniburak)
+* Web: http://burakdemirtas.org
+* Project: jQuery jTwit
+* Version: 1.0
+* Project Page: http://burakdemirtas.org/projects/jquery.jtwit/
+* Older Version: http://coda.co.za/content/projects/jquery.twitter/
+* License: GNU General Public License (http://www.gnu.org/copyleft/gpl.html) 
+*/
+
 (function($) {
 	$.fn.jTwit = function(options) {
 		$.fn.jTwit.defaults = {
